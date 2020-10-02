@@ -5,7 +5,7 @@
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> <br>
 Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
 
-  <summary><b>Social Dilema</b></summary><br>
+  
 <div align="center">
   
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/imjp19/)
