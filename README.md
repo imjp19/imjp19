@@ -8,7 +8,7 @@
  
   
 <div align="center">
-<br>
+<br><br><br>
  
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/imjp19/)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://twitter.com/imjp19_)
