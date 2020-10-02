@@ -1,9 +1,10 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=imjp19&color=red&style=flat)
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+
 
   <summary><b>GitHub Stats</b></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
 <br>
   
