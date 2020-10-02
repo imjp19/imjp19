@@ -1,14 +1,14 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=imjp19&color=red&style=flat)
-<div align="center">
+<div align="left">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> 
-<img align="right" alt="Coder GIF" height=250 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 </div>
- <br>
-  <br>
+ 
   
 <div align="center">
+<br>
  
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/imjp19/)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://twitter.com/imjp19_)
