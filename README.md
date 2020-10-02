@@ -4,7 +4,7 @@
 
   <summary><b>GitHub Stats</b></summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /><br><br>
 Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
 <br>
   
