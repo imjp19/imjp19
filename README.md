@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=imjp19&color=red&style=flat)
-<div>
+<div align="center">
 
   <summary><b>GitHub Stats</b></summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> 
