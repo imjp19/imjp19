@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=imjp19&color=blue&style=flat)
 <a href="https://github.com/imjp19"><img src="https://img.shields.io/github/stars/imjp19?style=flat"/></a>
-<a href="https://github.com/imjp19"><img src="https://img.shields.io/github/forks/imjp19/imjp19?style=flat"/></a>
-<a href="https://github.com/imjp19"><img src="https://img.shields.io/github/issues-pr/imjp19/imjp19?style=flat?color=yellow"/></a>
+<a href="https://github.com/imjp19"><img src="https://img.shields.io/github/forks/imjp19/imjp19.github.io?style=flat"/></a>
+<a href="https://github.com/imjp19"><img src="https://img.shields.io/github/issues-pr/imjp19/imjp19.github.io?style=flat?color=yellow"/></a>
 <a href="https://github.com/imjp19"><img src="https://img.shields.io/github/contributors/imjp19/imjp19?color=orange"/></a>
 <a href="https://github.com/imjp19"><img src="https://img.shields.io/github/followers/imjp19?style=flat"/></a>
 <a href="https://twitter.com/imjp19_"><img src="https://img.shields.io/twitter/follow/imjp19_?style=social"/></a>
