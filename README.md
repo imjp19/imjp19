@@ -15,7 +15,7 @@
 ### GitHub stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> 
 <br>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjp19&count_private=true&show_icons=truehow_icons=true" />
 <div align="center">
 
  
@@ -29,3 +29,4 @@
 <br>
 <a href="https://github.com/imjp19/imjp19/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
 </div>  
+
