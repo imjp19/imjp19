@@ -16,7 +16,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjp19&count_private=true&show_icons=truehow_icons=true" />
 
- <summary><b>Social Dilema</b></summary><br>
+<details>	
+ <summary><b>Social Dilema</b></summary>
 <div align="center">
 
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/imjp19/)
@@ -27,4 +28,4 @@
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/gujjucoder_/)
 <a href="https://github.com/imjp19/imjp19/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
 </div>  
-
+</details>
