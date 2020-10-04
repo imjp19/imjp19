@@ -11,13 +11,12 @@
 
 **I am Jay Patel. Technically I am a second-year Computer Engineering student at [Sardar Vallabhbhai Patel Institute of Technology](https://www.svitvasad.ac.in). I am a beginner MERN developer. Basically, I am a Hackathon enthusiast and I love to be a part of the community. Nowadays in the pandemic, I started my journey with hackathons for building something innovative in time boundary. It helps me to learn new things and apart from that I could know my limits, mistakes, knowledge. I am Looking forward to my own start-up. Building new things and debugging code is my daily good habit. And develop something new for society is my duty. I believe in smart work with a little bit of hard work. My goal is to update and develop myself daily.**
 
-<details>
-<summary><b>GitHub stats</b></summary>
+
+### GitHub stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjp19&count_private=true&show_icons=truehow_icons=true" />
-</details>
-<details>	
- <summary><b>Social Dilema</b></summary>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjp19&count_private=true&show_icons=truehow_icons=true&width=100%" />
+
+ 
 <div align="center">
 
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/imjp19/)
@@ -28,4 +27,4 @@
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/gujjucoder_/)
 <a href="https://github.com/imjp19/imjp19/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
 </div>  
-</details>
+
