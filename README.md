@@ -18,7 +18,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
 </details>
  
  <details>
- <summary>Most Used Languages</summary>
+  <summary><b>Most Used Languages</b></summary>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjp19&count_private=true&show_icons=truehow_icons=true&width=100%" />
 
  
