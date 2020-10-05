@@ -44,6 +44,12 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
 <a href="https://www.instagram.com/imjp19/">
   <img align="left" alt="Jay's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
+<br>
 </div>  
 
+<div align="center">
+  
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/imjp19/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/imjp19/)
+
+</div>
