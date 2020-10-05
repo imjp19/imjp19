@@ -19,12 +19,23 @@
  
 <div align="center">
 
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/imjp19/)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://twitter.com/imjp19_)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json)](https://t.me/imjp19)<br>
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/imjp19)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/d8d66e82cba5f63d802615a10faa6ad4/raw/rb-qwiklabs.json)](https://www.qwiklabs.com/public_profiles/2e43e79c-0c7c-4386-a2dc-d85642409e27)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/gujjucoder_/)
-<a href="https://github.com/imjp19/imjp19/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
+<a href="https://discord.gg/tGvaSu">
+  <img align="left" alt="Jay's Discord" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/imjp19_">
+  <img align="left" alt="Jay Patel | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/imjp19/">
+  <img align="left" alt="Jay's LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/gujjucoder_/">
+  <img align="left" alt="Jay's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.qwiklabs.com/public_profiles/2e43e79c-0c7c-4386-a2dc-d85642409e27">
+  <img align="left" alt="Vraj's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qwiklabs.svg" />
+</a>
+<a href="https://www.instagram.com/imjp19/">
+  <img align="left" alt="Vraj's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 </div>  
 
