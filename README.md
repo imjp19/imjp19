@@ -9,7 +9,7 @@
 <a href="https://github.com/imjp19"><img src="https://img.shields.io/github/watchers/imjp19/imjp19?style=flat"/></a>
 <br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 
-**I am Jay Patel. Technically I am a second-year Computer Engineering student at [Sardar Vallabhbhai Patel Institute of Technology](https://www.svitvasad.ac.in). I am a beginner MERN developer. Basically, I am a Hackathon enthusiast and I love to be a part of the community. Nowadays in the pandemic, I started my journey with hackathons for building something innovative in time boundary. It helps me to learn new things and apart from that I could know my limits, mistakes, knowledge. I am Looking forward to my own start-up. Building new things and debugging code is my daily good habit. And develop something new for society is my duty. I believe in smart work with a little bit of hard work. My goal is to update and develop myself daily.**
+I am [Jay Patel](https://imjp19.guithub.com). Technically I am a second-year Computer Engineering student at [Sardar Vallabhbhai Patel Institute of Technology](https://www.svitvasad.ac.in). I am a beginner MERN developer. Basically, I am a Hackathon enthusiast and I love to be a part of the community. Nowadays in the pandemic, I started my journey with hackathons for building something innovative in time boundary. It helps me to learn new things and apart from that I could know my limits, mistakes, knowledge. I am Looking forward to my own start-up. Building new things and debugging code is my daily good habit. And develop something new for society is my duty. I believe in smart work with a little bit of hard work. My goal is to update and develop myself daily.
 
 <details>
   <summary><b>GitHub Stats</b></summary>
@@ -39,10 +39,11 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
   <img align="left" alt="Jay's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/2e43e79c-0c7c-4386-a2dc-d85642409e27">
-  <img align="left" alt="Vraj's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qwiklabs.svg" />
+  <img align="left" alt="Jay Patel | Qwiklab" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qwiklabs.svg" />
 </a>
 <a href="https://www.instagram.com/imjp19/">
-  <img align="left" alt="Vraj's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Jay's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+
 </div>  
 
