@@ -10,12 +10,18 @@
 <br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 
 **I am Jay Patel. Technically I am a second-year Computer Engineering student at [Sardar Vallabhbhai Patel Institute of Technology](https://www.svitvasad.ac.in). I am a beginner MERN developer. Basically, I am a Hackathon enthusiast and I love to be a part of the community. Nowadays in the pandemic, I started my journey with hackathons for building something innovative in time boundary. It helps me to learn new things and apart from that I could know my limits, mistakes, knowledge. I am Looking forward to my own start-up. Building new things and debugging code is my daily good habit. And develop something new for society is my duty. I believe in smart work with a little bit of hard work. My goal is to update and develop myself daily.**
+
 <details>
  <summary>GitHub stats</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjp19&count_private=true&show_icons=truehow_icons=true" /> 
  </details>
+ 
+ <details>
+ <summary>Most Used Languages</summary>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjp19&count_private=true&show_icons=truehow_icons=true&width=100%" />
 
+ 
+ </details>
  
 <div align="center">
 
