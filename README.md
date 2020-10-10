@@ -23,7 +23,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
 
  
  </details>
-<div align="center">
+<div >
 
 <a href="https://discord.gg/tGvaSu">
   <img align="left" alt="Jay's Discord" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
