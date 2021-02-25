@@ -1,4 +1,4 @@
-<img height="100px" width="100px" src="https://sdk.bitmoji.com/render/panel/732eaa6e-2db0-48dc-b8d8-4484ec74e70f-08a7fb3f-df2b-484e-8734-169b232d75fe-v1.png?transparent=1&palette=1">
+<img align="left" height="100px" width="100px" src="https://sdk.bitmoji.com/render/panel/732eaa6e-2db0-48dc-b8d8-4484ec74e70f-08a7fb3f-df2b-484e-8734-169b232d75fe-v1.png?transparent=1&palette=1">
 
 ![](https://komarev.com/ghpvc/?username=imjp19&color=blue&style=flat)
 <a href="https://github.com/imjp19"><img src="https://img.shields.io/github/stars/imjp19?style=flat"/></a>
