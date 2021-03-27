@@ -35,7 +35,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
 <a href="https://www.linkedin.com/in/imjp19/">
   <img align="left" alt="Jay's LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/gujjucoder_/">
+<a href="https://www.instagram.com/wittyjay.dev/">
   <img align="left" alt="Jay's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/2e43e79c-0c7c-4386-a2dc-d85642409e27">
