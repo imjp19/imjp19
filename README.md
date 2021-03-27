@@ -41,7 +41,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
 <a href="https://www.qwiklabs.com/public_profiles/2e43e79c-0c7c-4386-a2dc-d85642409e27">
   <img align="left" alt="Jay Patel | Qwiklab" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qwiklabs.svg" />
 </a>
-<a href="https://www.telegram.com/imjp19/">
+<a href="https://www.telegram.org/imjp19/">
   <img align="left" alt="Jay's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br>
