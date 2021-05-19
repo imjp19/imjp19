@@ -8,7 +8,7 @@
 <a href="https://github.com/imjp19"><img src="https://img.shields.io/github/followers/imjp19?style=flat"/></a>
 <a href="https://twitter.com/imjp19_"><img src="https://img.shields.io/twitter/follow/imjp19_?style=social"/></a>
 <a href="https://github.com/imjp19"><img src="https://img.shields.io/github/watchers/imjp19/imjp19?style=flat"/></a>
-<br><img style="align:right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+<br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 
 I am [Jay Patel](http://imjp19.github.io). Technically I am a second-year Computer Engineering student at [Sardar Vallabhbhai Patel Institute of Technology](https://www.svitvasad.ac.in). I am a beginner MERN developer. Basically, I am a Hackathon enthusiast and I love to be a part of the community. Nowadays in the pandemic, I started my journey with hackathons for building something innovative in time boundary. It helps me to learn new things and apart from that I could know my limits, mistakes, knowledge. I am Looking forward to my own start-up. Building new things and debugging code is my daily good habit. And develop something new for society is my duty. I believe in smart work with a little bit of hard work. My goal is to update and develop myself daily.
 
@@ -22,7 +22,6 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
   <summary><b>Most Used Languages</b></summary>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjp19&count_private=true&show_icons=truehow_icons=true&width=100%" />
 
- 
  </details>
 <div >
 
@@ -45,7 +44,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/imjp19<br>
   <img align="left" alt="Jay's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br>
-</div>  
+</div>
 
 <div align="center">
 <br>  
