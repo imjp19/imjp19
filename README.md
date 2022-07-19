@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jay Patel</h1>
-<h3 align="center">Web Developer | Data Science Enthusiast | ML, AI Enthusiast</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjp19&label=Profile%20views&color=0e75b6&style=flat" alt="imjp19" /> </p>
 
